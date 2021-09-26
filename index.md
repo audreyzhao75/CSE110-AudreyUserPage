@@ -1,7 +1,7 @@
-# Hi, I'm Audrey!
+## Hi, I'm Audrey!
 ![This is an image](/Pictures/pfp.JPG)
 
-## Me as a programmer
+### Me as a programmer
 
 ***I know several programming languages:***
 - Java
@@ -19,9 +19,9 @@
 
 And here is a link to my [portfolio](https://audreyzhao75.github.io/).
 
-## Me as a person
+### Me as a person
 
-> I'm a 3rd year senior majoring in CogSci, Design and Interaction and minoring in CSE. I'm interesed in pursuing a SWE career, so I'm excited for this class!
+> I'm a 3rd year senior majoring in CogSci, Design and Interaction and minoring in CSE. I'm interested in pursuing a SWE career, so I'm excited for this class!
 
 ***Some facts about me:***
 
